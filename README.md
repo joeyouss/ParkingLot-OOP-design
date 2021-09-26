@@ -4,6 +4,7 @@ Python based OOP design for a parking lot which implements the ideas of abstract
 
 ## Description of files :
 `Inputs.txt` - input for the program
+
 `Polishing_inputs.py` - taking input as a string and distributing it into different commands and making the input ready for processing
 
 `Parking_lot.py` - the main function with every function and class implemented.
